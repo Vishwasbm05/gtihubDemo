@@ -39,7 +39,6 @@ public class Demo {
 		 
 		ArrayList<Integer> a1=new ArrayList<Integer>();
 		a1.add(10);
-		a1.add("xvc");
 		
 		
 		

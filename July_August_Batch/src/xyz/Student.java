@@ -10,7 +10,7 @@ class Parent{
 	
 }
 
-public class Student extends Parent {
+public class Student  {
 	int id;
 	
 
