@@ -3,7 +3,9 @@ package in.collections;
 import java.util.ArrayList;
 
 class Employee{
-	
+	void m() {
+		System.out.println("Hi");
+	}
 }
 
 
